@@ -1,7 +1,10 @@
-<img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/themes/udacity_wp_1_8/images/Udacity_Logo_SVG_200x35.svg" style=" margin: 30px; height: 30px">
+![](data:image/png;base64,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 )
+
+
 # Pneumonia Detection from Chest X-Rays
 
-<img src="https://miro.medium.com/max/1400/1*rZ8wn3AO4CtzW_DGSQJjPg.png" style="height: 250px; width: 1000px">
+
+<img src="https://miro.medium.com/max/1400/1*rZ8wn3AO4CtzW_DGSQJjPg.png" style="height: 250px; width: 1200px">
 
 ### AI for Healthcare Nanodegree Program
 **Project 1**
@@ -37,7 +40,7 @@ The algorithm was designed to have higher F1 score and high recall which means t
 
 **Algorithm Flowchart**
 
-![](diagram.png)
+![](assets/diagram.png)
 
 **Diagram Steps:**
 
@@ -113,16 +116,16 @@ The algorithm was designed to have higher F1 score and high recall which means t
 
 **Algorithm training performance visualization:**
 
-![](Preformance.png)
+![](assets/Preformance.png)
 
 **AUC and P-R Curve:**
 
-![](AUC.png)
+![](assets/AUC.png)
 
 **Final Threshold and Explanation:**
 
 Threshold of 0.41005385 was chosen based on the best F1 score, which was 0.417910
-![](F1.png)
+![](assets/F1.png)
 
 * Accuracy = 0.727
 * Precision = 0.3333333333333333
@@ -133,7 +136,7 @@ Threshold of 0.41005385 was chosen based on the best F1 score, which was 0.41791
 
 **Confusion Matrix:**
 
-![](CM.png)
+![](assets/CM.png)
 
 ### 4. Databases
 
@@ -158,30 +161,30 @@ Some statistics about all patients in the dataset:
 
 **All patients in the dataset:**
 
-![](Findings-1.png)
+![](assets/Findings-1.png)
 
-![](diseases.png)
+![](assets/diseases.png)
 
 The population is highly imbalanced between pneumonia and non-pneumonia cases. There are total of 110689 samples with no pneumonia, and 1431 samples with pneumonia in the dataset. 
 
-![](Pneumonia.png)
+![](assets/Pneumonia.png)
 
 The patient population for these images were 1-95 year olds and 56.5% male and 43.5% female. 
 
-![](all_ages.png)
+![](assets/all_ages.png)
 
-![](gender_all.png)
+![](assets/gender_all.png)
 
 Some statistics about Pneumonia patients in the dataset:
 
 **Pneumonia patients in the dataset:**
-![](Findings-2.png)
+![](assets/Findings-2.png)
 
-![](disease-pneu.png)
+![](assets/disease-pneu.png)
 
-![](age-both.png)
+![](assets/age-both.png)
 
-![](gender_Pnemonia.png)
+![](assets/gender_Pnemonia.png)
 
 
 **Description of Training Dataset:** 
@@ -193,7 +196,7 @@ Number of  non-pneumonia  cases in the train data is 1144.
  
 Example of the images in the train dataset after augmentation and their labels:
 
-![](x-rays.png)
+![](assets/x-rays.png)
 
 **Description of Validation Dataset:** 
 
