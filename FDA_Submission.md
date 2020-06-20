@@ -161,7 +161,7 @@ Some statistics about all patients in the dataset:
 
 **All patients in the dataset:**
 
-![](assets/Findings-1.png)
+![](assets/findings-1.png)
 
 ![](assets/diseases.png)
 
@@ -178,7 +178,8 @@ The patient population for these images were 1-95 year olds and 56.5% male and 4
 Some statistics about Pneumonia patients in the dataset:
 
 **Pneumonia patients in the dataset:**
-![](assets/Findings-2.png)
+
+![](assets/findings-2.png)
 
 ![](assets/disease-pneu.png)
 
